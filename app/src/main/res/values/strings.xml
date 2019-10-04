@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">World Clock</string>
+    <string name="city_name">Sydney</string>
+    //<string name="curr_location">Local Timezone</string>
+    <string name="syd">Sydney</string>
+    <string name="ny">New York</string>
+    <string name="london">London</string>
+    <string name="paris">Paris</string>
+    <string name="beijing">Beijing</string>
+    <string name="timezone">Sydney</string>
+
+    <string name="twelve_hour">12 Hour Time</string>
+    <string name="twentyfour_hour">24 Hour Time</string>
+    
+</resources>
